@@ -1,0 +1,6 @@
+{
+  "values": [
+    "#ivp:internal/small_village",
+    {"id": "#nova_structures:taverns", "required": false}
+  ]
+}

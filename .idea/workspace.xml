@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c2591064-1fff-42e1-bfc9-c2cd79bc8a36" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/ivp/tags/worldgen/structure/small_village.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/data/ivp/tags/worldgen/structure/small_village.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/ivp/tags/worldgen/structure/standard_village.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/data/ivp/tags/worldgen/structure/standard_village.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="improved-village-placement" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="improved-village-placement" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="improved-village-placement" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="improved-village-placement" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="improved-village-placement" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="publishing" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Apollounknowndev&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Apollounknowndev/improved-village-placement.git&quot;,
+    &quot;accountId&quot;: &quot;7891143c-883a-4944-b9fb-b68c3c023df8&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2yo11u8bGAFlsVh79pwUZiKALKJ" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.improved-village-placement [build].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.improved-village-placement [publishMods].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.improved-village-placement [runFabricClient].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ldglo/Documents/Github/.cloche/improved-village-placement/src/common/main/resources/data&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\src\common\main\resources\data" />
+      <recent name="C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\src\common\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.improved-village-placement [publishMods]">
+    <configuration name="Run :fabric:1.20.1:client" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="net.fabricmc.loader.impl.launch.knot.KnotClient" />
+      <module name="improved-village-placement.fabric1201" />
+      <option name="PROGRAM_PARAMETERS" value="--assetsDir=C:\Users\ldglo\.gradle\caches\minecraft-codev\assets --assetIndex=5" />
+      <option name="VM_PARAMETERS" value="-Dfabric.development=true -Dmixin.env.remapRefMap=true -Dfabric.classPathGroups=C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\classes\java\fabric1201;C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\classes\kotlin\fabric1201;C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\generated\ksp\fabric1201\classes;C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\resources\fabric1201 -Dfabric.remapClasspathFile=C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\tmp\writeFabric1201RemapClasspath\classpath.txt -Djava.library.path=C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\tmp\extractFabric1201Natives -Dorg.lwjgl.librarypath=C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\tmp\extractFabric1201Natives" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Gradle.BeforeRunTask" enabled="true" tasks="downloadFabric1201Assets" externalProjectPath="$PROJECT_DIR$" />
+        <option name="Gradle.BeforeRunTask" enabled="true" tasks="extractFabric1201Natives" externalProjectPath="$PROJECT_DIR$" />
+        <option name="Gradle.BeforeRunTask" enabled="true" tasks="writeFabric1201RemapClasspath" externalProjectPath="$PROJECT_DIR$" />
+      </method>
+    </configuration>
+    <configuration name="Run :fabric:1.20.1:server" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="net.fabricmc.loader.impl.launch.knot.KnotServer" />
+      <module name="improved-village-placement.fabric1201" />
+      <option name="PROGRAM_PARAMETERS" value="nogui" />
+      <option name="VM_PARAMETERS" value="-Dfabric.development=true -Dmixin.env.remapRefMap=true -Dfabric.classPathGroups=C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\classes\java\fabric1201;C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\classes\kotlin\fabric1201;C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\generated\ksp\fabric1201\classes;C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\resources\fabric1201 -Dfabric.remapClasspathFile=C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\tmp\writeFabric1201RemapClasspath\classpath.txt" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Gradle.BeforeRunTask" enabled="true" tasks="writeFabric1201RemapClasspath" externalProjectPath="$PROJECT_DIR$" />
+      </method>
+    </configuration>
+    <configuration name="Run :fabric:1.21.1:client" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="net.fabricmc.loader.impl.launch.knot.KnotClient" />
+      <module name="improved-village-placement.fabric1211" />
+      <option name="PROGRAM_PARAMETERS" value="--assetsDir=C:\Users\ldglo\.gradle\caches\minecraft-codev\assets --assetIndex=17" />
+      <option name="VM_PARAMETERS" value="-Dfabric.development=true -Dmixin.env.remapRefMap=true -Dfabric.classPathGroups=C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\classes\java\fabric1211;C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\classes\kotlin\fabric1211;C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\generated\ksp\fabric1211\classes;C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\resources\fabric1211 -Dfabric.remapClasspathFile=C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\tmp\writeFabric1211RemapClasspath\classpath.txt -Djava.library.path=C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\tmp\extractFabric1211Natives -Dorg.lwjgl.librarypath=C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\tmp\extractFabric1211Natives" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Gradle.BeforeRunTask" enabled="true" tasks="downloadFabric1211Assets" externalProjectPath="$PROJECT_DIR$" />
+        <option name="Gradle.BeforeRunTask" enabled="true" tasks="extractFabric1211Natives" externalProjectPath="$PROJECT_DIR$" />
+        <option name="Gradle.BeforeRunTask" enabled="true" tasks="writeFabric1211RemapClasspath" externalProjectPath="$PROJECT_DIR$" />
+      </method>
+    </configuration>
+    <configuration name="Run :fabric:1.21.1:server" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="net.fabricmc.loader.impl.launch.knot.KnotServer" />
+      <module name="improved-village-placement.fabric1211" />
+      <option name="PROGRAM_PARAMETERS" value="nogui" />
+      <option name="VM_PARAMETERS" value="-Dfabric.development=true -Dmixin.env.remapRefMap=true -Dfabric.classPathGroups=C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\classes\java\fabric1211;C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\classes\kotlin\fabric1211;C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\generated\ksp\fabric1211\classes;C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\resources\fabric1211 -Dfabric.remapClasspathFile=C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\tmp\writeFabric1211RemapClasspath\classpath.txt" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Gradle.BeforeRunTask" enabled="true" tasks="writeFabric1211RemapClasspath" externalProjectPath="$PROJECT_DIR$" />
+      </method>
+    </configuration>
+    <configuration name="Run :fabric:1.21.6:client" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="net.fabricmc.loader.impl.launch.knot.KnotClient" />
+      <module name="improved-village-placement.fabric1216" />
+      <option name="PROGRAM_PARAMETERS" value="--assetsDir=C:\Users\ldglo\.gradle\caches\minecraft-codev\assets --assetIndex=26" />
+      <option name="VM_PARAMETERS" value="-Dfabric.development=true -Dmixin.env.remapRefMap=true -Dfabric.classPathGroups=C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\classes\java\fabric1216;C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\classes\kotlin\fabric1216;C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\generated\ksp\fabric1216\classes;C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\resources\fabric1216 -Dfabric.remapClasspathFile=C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\tmp\writeFabric1216RemapClasspath\classpath.txt -Djava.library.path=C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\tmp\extractFabric1216Natives -Dorg.lwjgl.librarypath=C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\tmp\extractFabric1216Natives" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Gradle.BeforeRunTask" enabled="true" tasks="downloadFabric1216Assets" externalProjectPath="$PROJECT_DIR$" />
+        <option name="Gradle.BeforeRunTask" enabled="true" tasks="extractFabric1216Natives" externalProjectPath="$PROJECT_DIR$" />
+        <option name="Gradle.BeforeRunTask" enabled="true" tasks="writeFabric1216RemapClasspath" externalProjectPath="$PROJECT_DIR$" />
+      </method>
+    </configuration>
+    <configuration name="Run :fabric:1.21.6:server" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="net.fabricmc.loader.impl.launch.knot.KnotServer" />
+      <module name="improved-village-placement.fabric1216" />
+      <option name="PROGRAM_PARAMETERS" value="nogui" />
+      <option name="VM_PARAMETERS" value="-Dfabric.development=true -Dmixin.env.remapRefMap=true -Dfabric.classPathGroups=C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\classes\java\fabric1216;C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\classes\kotlin\fabric1216;C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\generated\ksp\fabric1216\classes;C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\resources\fabric1216 -Dfabric.remapClasspathFile=C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\tmp\writeFabric1216RemapClasspath\classpath.txt" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Gradle.BeforeRunTask" enabled="true" tasks="writeFabric1216RemapClasspath" externalProjectPath="$PROJECT_DIR$" />
+      </method>
+    </configuration>
+    <configuration name="Run :fabric:client" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="net.fabricmc.loader.impl.launch.knot.KnotClient" />
+      <module name="improved-village-placement.main" />
+      <option name="PROGRAM_PARAMETERS" value="--assetsDir=C:\Users\ldglo\.gradle\caches\minecraft-codev\assets --assetIndex=5" />
+      <option name="VM_PARAMETERS" value="-Dfabric.development=true -Dmixin.env.remapRefMap=true -Dfabric.classPathGroups=C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\classes\java\main;C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\classes\kotlin\main;C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\resources\main -Dfabric.remapClasspathFile=C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\tmp\writeFabricRemapClasspath\classpath.txt -Djava.library.path=C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\tmp\extractNatives -Dorg.lwjgl.librarypath=C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\tmp\extractNatives" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Gradle.BeforeRunTask" enabled="true" tasks="downloadAssets" externalProjectPath="$PROJECT_DIR$" />
+        <option name="Gradle.BeforeRunTask" enabled="true" tasks="extractNatives" externalProjectPath="$PROJECT_DIR$" />
+        <option name="Gradle.BeforeRunTask" enabled="true" tasks="writeFabricRemapClasspath" externalProjectPath="$PROJECT_DIR$" />
+      </method>
+    </configuration>
+    <configuration name="Run :fabric:server" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="net.fabricmc.loader.impl.launch.knot.KnotServer" />
+      <module name="improved-village-placement.main" />
+      <option name="PROGRAM_PARAMETERS" value="nogui" />
+      <option name="VM_PARAMETERS" value="-Dfabric.development=true -Dmixin.env.remapRefMap=true -Dfabric.classPathGroups=C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\classes\java\main;C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\classes\kotlin\main;C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\resources\main -Dfabric.remapClasspathFile=C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\tmp\writeFabricRemapClasspath\classpath.txt" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Gradle.BeforeRunTask" enabled="true" tasks="writeFabricRemapClasspath" externalProjectPath="$PROJECT_DIR$" />
+      </method>
+    </configuration>
+    <configuration name="Run :forge:1.20.1:client" type="Application" factoryName="Application">
+      <envs>
+        <env name="MOD_CLASSES" value="deeper_oceans%%C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\classes\java\forge1201;deeper_oceans%%C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\classes\kotlin\forge1201;deeper_oceans%%C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\generated\ksp\forge1201\classes;deeper_oceans%%C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\resources\forge1201" />
+        <env name="MCP_MAPPINGS" value="minecraft-codev.mappings" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="cpw.mods.bootstraplauncher.BootstrapLauncher" />
+      <module name="improved-village-placement.forge1201" />
+      <option name="PROGRAM_PARAMETERS" value="--launchTarget forgeclientuserdev --version MOD_DEV --assetIndex 5 --assetsDir C:\Users\ldglo\.gradle\caches\minecraft-codev\assets --gameDir . --fml.forgeVersion 47.4.0 --fml.mcVersion 1.20.1 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20230612.114412 --mixin.config=deeper_oceans.mixins.json" />
+      <option name="VM_PARAMETERS" value="-Dcodev.naming.mappingsPath=C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\tmp\loadForge1201Mappings\mappings.tiny -Dmixin.env.remapRefMap=true -Dmixin.env.refMapRemappingFile=C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\tmp\generateForge1201McpToSrg\mcp.srg -Djava.net.preferIPv6Addresses=system -p C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\cpw.mods\bootstraplauncher\1.1.2\c546e00443d8432cda6baa1c860346980742628\bootstraplauncher-1.1.2.jar;C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\cpw.mods\securejarhandler\2.1.10\51e6a22c6c716beb11e244bf5b8be480f51dd6b5\securejarhandler-2.1.10.jar;C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-commons\9.7.1\406c6a2225cfe1819f102a161e54cc16a5c24f75\asm-commons-9.7.1.jar;C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-util\9.7.1\9e23359b598ec6b74b23e53110dd5c577adf2243\asm-util-9.7.1.jar;C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-analysis\9.7.1\f97a3b319f0ed6a8cd944dc79060d3912a28985f\asm-analysis-9.7.1.jar;C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-tree\9.7.1\3a53139787663b139de76b627fca0084ab60d32c\asm-tree-9.7.1.jar;C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm\9.7.1\f0ed132a49244b042cd0e15702ab9f2ce3cc8436\asm-9.7.1.jar;C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\net.minecraftforge\JarJarFileSystems\0.3.19\2464eb7d6b9ddb9db36a82cf8a95193e5c6fe020\JarJarFileSystems-0.3.19.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -DlegacyClassPath.file=C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\tmp\writeForge1201LegacyClasspath\classpath.txt -DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge- -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar -Dforge.enableGameTest=true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Gradle.BeforeRunTask" enabled="true" tasks="downloadForge1201Assets" externalProjectPath="$PROJECT_DIR$" />
+        <option name="Gradle.BeforeRunTask" enabled="true" tasks="generateForge1201McpToSrg" externalProjectPath="$PROJECT_DIR$" />
+        <option name="Gradle.BeforeRunTask" enabled="true" tasks="writeForge1201LegacyClasspath" externalProjectPath="$PROJECT_DIR$" />
+      </method>
+    </configuration>
+    <configuration name="Run :forge:1.20.1:server" type="Application" factoryName="Application">
+      <envs>
+        <env name="MOD_CLASSES" value="deeper_oceans%%C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\classes\java\forge1201;deeper_oceans%%C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\classes\kotlin\forge1201;deeper_oceans%%C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\generated\ksp\forge1201\classes;deeper_oceans%%C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\resources\forge1201" />
+        <env name="MCP_MAPPINGS" value="minecraft-codev.mappings" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="cpw.mods.bootstraplauncher.BootstrapLauncher" />
+      <module name="improved-village-placement.forge1201" />
+      <option name="PROGRAM_PARAMETERS" value="--launchTarget forgeserveruserdev --gameDir . --fml.forgeVersion 47.4.0 --fml.mcVersion 1.20.1 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20230612.114412 --mixin.config=deeper_oceans.mixins.json" />
+      <option name="VM_PARAMETERS" value="-Dcodev.naming.mappingsPath=C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\tmp\loadForge1201Mappings\mappings.tiny -Dmixin.env.remapRefMap=true -Dmixin.env.refMapRemappingFile=C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\tmp\generateForge1201McpToSrg\mcp.srg -Djava.net.preferIPv6Addresses=system -p C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\cpw.mods\bootstraplauncher\1.1.2\c546e00443d8432cda6baa1c860346980742628\bootstraplauncher-1.1.2.jar;C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\cpw.mods\securejarhandler\2.1.10\51e6a22c6c716beb11e244bf5b8be480f51dd6b5\securejarhandler-2.1.10.jar;C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-commons\9.7.1\406c6a2225cfe1819f102a161e54cc16a5c24f75\asm-commons-9.7.1.jar;C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-util\9.7.1\9e23359b598ec6b74b23e53110dd5c577adf2243\asm-util-9.7.1.jar;C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-analysis\9.7.1\f97a3b319f0ed6a8cd944dc79060d3912a28985f\asm-analysis-9.7.1.jar;C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-tree\9.7.1\3a53139787663b139de76b627fca0084ab60d32c\asm-tree-9.7.1.jar;C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm\9.7.1\f0ed132a49244b042cd0e15702ab9f2ce3cc8436\asm-9.7.1.jar;C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\net.minecraftforge\JarJarFileSystems\0.3.19\2464eb7d6b9ddb9db36a82cf8a95193e5c6fe020\JarJarFileSystems-0.3.19.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -DlegacyClassPath.file=C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\tmp\writeForge1201LegacyClasspath\classpath.txt -DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge- -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar -Dforge.enableGameTest=true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Gradle.BeforeRunTask" enabled="true" tasks="generateForge1201McpToSrg" externalProjectPath="$PROJECT_DIR$" />
+        <option name="Gradle.BeforeRunTask" enabled="true" tasks="writeForge1201LegacyClasspath" externalProjectPath="$PROJECT_DIR$" />
+      </method>
+    </configuration>
+    <configuration name="Run :neoforge:1.21.1:client" type="Application" factoryName="Application">
+      <envs>
+        <env name="MOD_CLASSES" value="deeper_oceans%%C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\classes\java\neoforge1211;deeper_oceans%%C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\classes\kotlin\neoforge1211;deeper_oceans%%C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\generated\ksp\neoforge1211\classes;deeper_oceans%%C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\resources\neoforge1211" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="cpw.mods.bootstraplauncher.BootstrapLauncher" />
+      <module name="improved-village-placement.neoforge1211" />
+      <option name="PROGRAM_PARAMETERS" value="--launchTarget forgeclientuserdev --version 21.1.26 --assetIndex 17 --assetsDir C:\Users\ldglo\.gradle\caches\minecraft-codev\assets --gameDir . --fml.neoForgeVersion 21.1.26 --fml.fmlVersion 4.0.24 --fml.mcVersion 1.21.1 --fml.neoFormVersion 20240808.144430" />
+      <option name="VM_PARAMETERS" value="-p C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\cpw.mods\bootstraplauncher\2.0.2\1a2d076cbc33b0520cbacd591224427b2a20047d\bootstraplauncher-2.0.2.jar;C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\cpw.mods\securejarhandler\3.0.8\c0ef95cecd8699a0449053ac7d9c160748d902cd\securejarhandler-3.0.8.jar;C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-commons\9.5\19ab5b5800a3910d30d3a3e64fdb00fd0cb42de0\asm-commons-9.5.jar;C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-util\9.5\64b5a1fc8c1b15ed2efd6a063e976bc8d3dc5ffe\asm-util-9.5.jar;C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-analysis\9.5\490bacc77de7cbc0be1a30bb3471072d705be4a4\asm-analysis-9.5.jar;C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-tree\9.5\fd33c8b6373abaa675be407082fdfda35021254a\asm-tree-9.5.jar;C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm\9.5\dc6ea1875f4d64fbc85e1691c95b96a3d8569c90\asm-9.5.jar;C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\net.neoforged\JarJarFileSystems\0.4.1\78f59f89defcd032ed788b151ca6a0d40ace796a\JarJarFileSystems-0.4.1.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Dneoforge.enableGameTest=true -DlegacyClassPath.file=C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\tmp\writeNeoforge1211LegacyClasspath\classpath.txt -DignoreList=securejarhandler-3.0.8.jar,asm-9.5.jar,asm-commons-9.5.jar,asm-tree-9.5.jar,asm-util-9.5.jar,asm-analysis-9.5.jar,bootstraplauncher-2.0.2.jar,JarJarFileSystems-0.4.1.jar,mixinextras-neoforge-0.4.1.jar,client-extra,neoforge- -Dfml.gameLayerLibraries= -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar -Djava.net.preferIPv6Addresses=system -Dfml.pluginLayerLibraries=" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Gradle.BeforeRunTask" enabled="true" tasks="downloadNeoforge1211Assets" externalProjectPath="$PROJECT_DIR$" />
+        <option name="Gradle.BeforeRunTask" enabled="true" tasks="writeNeoforge1211LegacyClasspath" externalProjectPath="$PROJECT_DIR$" />
+      </method>
+    </configuration>
+    <configuration name="Run :neoforge:1.21.1:server" type="Application" factoryName="Application">
+      <envs>
+        <env name="MOD_CLASSES" value="deeper_oceans%%C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\classes\java\neoforge1211;deeper_oceans%%C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\classes\kotlin\neoforge1211;deeper_oceans%%C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\generated\ksp\neoforge1211\classes;deeper_oceans%%C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\resources\neoforge1211" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="cpw.mods.bootstraplauncher.BootstrapLauncher" />
+      <module name="improved-village-placement.neoforge1211" />
+      <option name="PROGRAM_PARAMETERS" value="--launchTarget forgeserveruserdev --gameDir . --fml.neoForgeVersion 21.1.26 --fml.fmlVersion 4.0.24 --fml.mcVersion 1.21.1 --fml.neoFormVersion 20240808.144430" />
+      <option name="VM_PARAMETERS" value="-p C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\cpw.mods\bootstraplauncher\2.0.2\1a2d076cbc33b0520cbacd591224427b2a20047d\bootstraplauncher-2.0.2.jar;C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\cpw.mods\securejarhandler\3.0.8\c0ef95cecd8699a0449053ac7d9c160748d902cd\securejarhandler-3.0.8.jar;C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-commons\9.5\19ab5b5800a3910d30d3a3e64fdb00fd0cb42de0\asm-commons-9.5.jar;C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-util\9.5\64b5a1fc8c1b15ed2efd6a063e976bc8d3dc5ffe\asm-util-9.5.jar;C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-analysis\9.5\490bacc77de7cbc0be1a30bb3471072d705be4a4\asm-analysis-9.5.jar;C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-tree\9.5\fd33c8b6373abaa675be407082fdfda35021254a\asm-tree-9.5.jar;C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm\9.5\dc6ea1875f4d64fbc85e1691c95b96a3d8569c90\asm-9.5.jar;C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\net.neoforged\JarJarFileSystems\0.4.1\78f59f89defcd032ed788b151ca6a0d40ace796a\JarJarFileSystems-0.4.1.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -DlegacyClassPath.file=C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\tmp\writeNeoforge1211LegacyClasspath\classpath.txt -DignoreList=securejarhandler-3.0.8.jar,asm-9.5.jar,asm-commons-9.5.jar,asm-tree-9.5.jar,asm-util-9.5.jar,asm-analysis-9.5.jar,bootstraplauncher-2.0.2.jar,JarJarFileSystems-0.4.1.jar,mixinextras-neoforge-0.4.1.jar,client-extra,neoforge- -Dfml.gameLayerLibraries= -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar -Djava.net.preferIPv6Addresses=system -Dfml.pluginLayerLibraries=" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Gradle.BeforeRunTask" enabled="true" tasks="writeNeoforge1211LegacyClasspath" externalProjectPath="$PROJECT_DIR$" />
+      </method>
+    </configuration>
+    <configuration name="Run :neoforge:1.21.6:client" type="Application" factoryName="Application">
+      <envs>
+        <env name="MOD_CLASSES" value="deeper_oceans%%C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\classes\java\neoforge1216;deeper_oceans%%C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\classes\kotlin\neoforge1216;deeper_oceans%%C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\generated\ksp\neoforge1216\classes;deeper_oceans%%C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\resources\neoforge1216" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="cpw.mods.bootstraplauncher.BootstrapLauncher" />
+      <module name="improved-village-placement.neoforge1216" />
+      <option name="PROGRAM_PARAMETERS" value="--launchTarget neoforgeclientdev --version 21.6.0-beta --assetIndex 26 --assetsDir C:\Users\ldglo\.gradle\caches\minecraft-codev\assets --fml.fmlVersion 7.0.10 --fml.mcVersion 1.21.6 --fml.neoForgeVersion 21.6.0-beta --fml.neoFormVersion 20250617.151856" />
+      <option name="VM_PARAMETERS" value="-p C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\cpw.mods\bootstraplauncher\2.0.2\1a2d076cbc33b0520cbacd591224427b2a20047d\bootstraplauncher-2.0.2.jar;C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\cpw.mods\securejarhandler\3.0.8\c0ef95cecd8699a0449053ac7d9c160748d902cd\securejarhandler-3.0.8.jar;C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-commons\9.7\e86dda4696d3c185fcc95d8d311904e7ce38a53f\asm-commons-9.7.jar;C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-util\9.7\c0655519f24d92af2202cb681cd7c1569df6ead6\asm-util-9.7.jar;C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-analysis\9.7\e4a258b7eb96107106c0599f0061cfc1832fe07a\asm-analysis-9.7.jar;C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-tree\9.7\e446a17b175bfb733b87c5c2560ccb4e57d69f1a\asm-tree-9.7.jar;C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm\9.7\73d7b3086e14beb604ced229c302feff6449723\asm-9.7.jar;C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\net.neoforged\JarJarFileSystems\0.4.1\78f59f89defcd032ed788b151ca6a0d40ace796a\JarJarFileSystems-0.4.1.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Djava.net.preferIPv6Addresses=system -DignoreList=mixinextras-neoforge-0.4.1.jar,client-extra,neoforge- -DlegacyClassPath.file=C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\tmp\writeNeoforge1216LegacyClasspath\classpath.txt -Dneoforge.enableGameTest=true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Gradle.BeforeRunTask" enabled="true" tasks="downloadNeoforge1216Assets" externalProjectPath="$PROJECT_DIR$" />
+        <option name="Gradle.BeforeRunTask" enabled="true" tasks="writeNeoforge1216LegacyClasspath" externalProjectPath="$PROJECT_DIR$" />
+      </method>
+    </configuration>
+    <configuration name="Run :neoforge:1.21.6:server" type="Application" factoryName="Application">
+      <envs>
+        <env name="MOD_CLASSES" value="deeper_oceans%%C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\classes\java\neoforge1216;deeper_oceans%%C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\classes\kotlin\neoforge1216;deeper_oceans%%C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\generated\ksp\neoforge1216\classes;deeper_oceans%%C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\resources\neoforge1216" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="cpw.mods.bootstraplauncher.BootstrapLauncher" />
+      <module name="improved-village-placement.neoforge1216" />
+      <option name="PROGRAM_PARAMETERS" value="--launchTarget neoforgeserverdev --fml.fmlVersion 7.0.10 --fml.mcVersion 1.21.6 --fml.neoForgeVersion 21.6.0-beta --fml.neoFormVersion 20250617.151856" />
+      <option name="VM_PARAMETERS" value="-p C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\cpw.mods\bootstraplauncher\2.0.2\1a2d076cbc33b0520cbacd591224427b2a20047d\bootstraplauncher-2.0.2.jar;C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\cpw.mods\securejarhandler\3.0.8\c0ef95cecd8699a0449053ac7d9c160748d902cd\securejarhandler-3.0.8.jar;C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-commons\9.7\e86dda4696d3c185fcc95d8d311904e7ce38a53f\asm-commons-9.7.jar;C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-util\9.7\c0655519f24d92af2202cb681cd7c1569df6ead6\asm-util-9.7.jar;C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-analysis\9.7\e4a258b7eb96107106c0599f0061cfc1832fe07a\asm-analysis-9.7.jar;C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-tree\9.7\e446a17b175bfb733b87c5c2560ccb4e57d69f1a\asm-tree-9.7.jar;C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\org.ow2.asm\asm\9.7\73d7b3086e14beb604ced229c302feff6449723\asm-9.7.jar;C:\Users\ldglo\.gradle\caches\modules-2\files-2.1\net.neoforged\JarJarFileSystems\0.4.1\78f59f89defcd032ed788b151ca6a0d40ace796a\JarJarFileSystems-0.4.1.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Djava.net.preferIPv6Addresses=system -DignoreList=mixinextras-neoforge-0.4.1.jar,client-extra,neoforge- -DlegacyClassPath.file=C:\Users\ldglo\Documents\Github\.cloche\improved-village-placement\build\tmp\writeNeoforge1216LegacyClasspath\classpath.txt" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Gradle.BeforeRunTask" enabled="true" tasks="writeNeoforge1216LegacyClasspath" externalProjectPath="$PROJECT_DIR$" />
+      </method>
+    </configuration>
+    <configuration name="improved-village-placement [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="improved-village-placement [publishMods]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="publishMods" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="improved-village-placement [runFabricClient]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="runFabricClient" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.improved-village-placement [publishMods]" />
+        <item itemvalue="Gradle.improved-village-placement [build]" />
+        <item itemvalue="Gradle.improved-village-placement [runFabricClient]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2591064-1fff-42e1-bfc9-c2cd79bc8a36" name="Changes" comment="" />
+      <created>1750485899140</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750485899140</updated>
+    </task>
+    <servers />
+  </component>
+</project>
